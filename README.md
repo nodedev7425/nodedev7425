@@ -4,7 +4,9 @@
 
 ![](https://komarev.com/ghpvc/?username=nodedev7425&color=brightgreen&style=flat-square&abbreviated=true)
 
-### Test
+### My coding toolset contains
 
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?logo=github&logoColor=red">
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?logo=%23092E20&logoColor=red">
+</p>
 
