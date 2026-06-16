@@ -14,7 +14,7 @@ jobs:
   
         - name: Fetch Medium RSS
           run: |
-            python .github/update_medium.py
+            python .github/workflows/update_medium.py
   
         - name: Commit changes
           run: |
