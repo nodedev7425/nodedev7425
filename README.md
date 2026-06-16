@@ -18,7 +18,7 @@
 [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=black&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=white&style=flat-square)](https://nodejs.org/)
 [![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&logo=html5&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=1572B6&logo=css3&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=663399&logo=css&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Delphi](https://img.shields.io/static/v1?label=&message=Delphi&color=E62431&logo=embarcadero&logoColor=white&style=flat-square)](https://www.embarcadero.com/products/delphi)
 
 **Frameworks:**
