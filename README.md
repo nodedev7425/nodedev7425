@@ -10,5 +10,6 @@
 
 <br>
 
+[![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20F&logo=django&logoColor=092E20&style=flat-square)](https://spring.io/projects/spring-boot)
 [![Spring Boot](https://img.shields.io/static/v1?label=&message=Spring%20Boot&color=6DB33F&logo=springboot&logoColor=white&style=flat-square)](https://spring.io/projects/spring-boot)
 
