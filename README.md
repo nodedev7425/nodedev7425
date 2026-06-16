@@ -1,4 +1,4 @@
-## Hi there, I'm Lenard Büsing 👋
+**Hi there, I'm Lenard Büsing** 👋
 
 ---
 
