@@ -12,5 +12,6 @@
 
 <p>
    <img alt="Static Badge" src="https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=%23FFFFFF">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 </p>
 
