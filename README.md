@@ -49,7 +49,11 @@
 [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2560FF&logo=docker&logoColor=white&style=flat-square)](https://www.npmjs.com/)
 [![Android Studio](https://img.shields.io/static/v1?label=&message=Android%20Studio&color=3DDC84&logo=androidstudio&logoColor=white&style=flat-square)](https://developer.android.com/studio)
 
+<br>
+
 ### Latest Medium Articles
+
+None
 
 <!-- MEDIUM-STORIES:START -->
 <!-- MEDIUM-STORIES:END -->
