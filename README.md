@@ -26,7 +26,7 @@
 [![Apache Maven](https://img.shields.io/static/v1?label=&message=Apache%20Maven&color=C71A36&logo=apachemaven&logoColor=white&style=flat-square)](https://maven.apache.org/)
 [![Pipenv](https://img.shields.io/static/v1?label=&message=Pipenv&color=3776AB&logo=python&logoColor=white&style=flat-square)](https://pipenv.pypa.io/en/latest/)
 [![NPM](https://img.shields.io/static/v1?label=&message=NPM&color=C71A36&logo=npm&logoColor=white&style=flat-square)](https://www.npmjs.com/)
-C71A36
+
 **Frameworks:**
 
 [![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=django&logoColor=white&style=flat-square)](https://www.djangoproject.com/)
