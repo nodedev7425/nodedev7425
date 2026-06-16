@@ -23,7 +23,7 @@ jobs:
           python-version: "3.x"
 
       - name: Fetch Medium RSS
-        run: python .github/update_medium.py
+        run: python .github/workflows/update_medium.py
 
       - name: Commit changes
         run: |
