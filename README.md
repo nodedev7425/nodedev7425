@@ -51,6 +51,7 @@ I enjoy learning new technologies, exploring tools, and continuously improving m
 None
 
 <!-- MEDIUM-STORIES:START -->
-
+- [Second example story](https://medium.com/@buelenard/second-example-story-82f3a802e60b?source=rss-561602d408c5------2)
+- [Examplestory](https://medium.com/@buelenard/examplestory-04763a6c6855?source=rss-561602d408c5------2)
 <!-- MEDIUM-STORIES:END -->
 
