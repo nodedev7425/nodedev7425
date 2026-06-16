@@ -2,17 +2,23 @@
 
 ---
 
+![](https://komarev.com/ghpvc/?username=nodedev7425&color=brightgreen&style=flat-square&abbreviated=true)
+
+<br>
+
 ### About me
 
 💻 I’m a software developer with 5 years of experience (since 2021)
+
 🏢 At work, I mainly develop using Delphi
+
 🌐 In my free time, I focus on Full-Stack development
 
+
 🚀 I enjoy learning new technologies, exploring modern tools, and continuously improving my understanding of software engineering
+
 📚 Always curious, always learning, always building
 
-
-![](https://komarev.com/ghpvc/?username=nodedev7425&color=brightgreen&style=flat-square&abbreviated=true)
 
 <br>
 
