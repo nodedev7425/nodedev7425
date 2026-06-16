@@ -23,7 +23,7 @@
 
 **Building tools:**
 
-[![Apache Maven](https://img.shields.io/static/v1?label=&message=Apache%20Maven&color=#C71A36&logo=apachemaven&logoColor=white&style=flat-square)](https://maven.apache.org/)
+[![Apache Maven](https://img.shields.io/static/v1?label=&message=Apache%20Maven&color=C71A36&logo=apachemaven&logoColor=white&style=flat-square)](https://maven.apache.org/)
 
 **Frameworks:**
 
