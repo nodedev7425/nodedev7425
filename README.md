@@ -6,7 +6,9 @@
 
 <br>
 
-I’m a software developer with 5 years of experience since 2021. At work, I mainly use Delphi, while in my free time I focus on Full-Stack development. I enjoy learning new technologies, exploring tools, and continuously improving my understanding of software engineering.
+I’m a software developer with 5 years of experience since 2021. At work, I mainly use Delphi, while in my free time I focus on Full-Stack development. 
+
+I enjoy learning new technologies, exploring tools, and continuously improving my understanding of software engineering.
 
 
 <br>
