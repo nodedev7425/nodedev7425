@@ -6,8 +6,6 @@
 
 <br>
 
-### About me
-
 💻 I’m a software developer with 5 years of experience (since 2021)
 
 🏢 At work, I mainly develop using Delphi
