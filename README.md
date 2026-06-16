@@ -2,6 +2,16 @@
 
 ---
 
+### About me
+
+💻 I’m a software developer with 5 years of experience (since 2021)
+🏢 At work, I mainly develop using Delphi
+🌐 In my free time, I focus on Full-Stack development
+
+🚀 I enjoy learning new technologies, exploring modern tools, and continuously improving my understanding of software engineering
+📚 Always curious, always learning, always building
+
+
 ![](https://komarev.com/ghpvc/?username=nodedev7425&color=brightgreen&style=flat-square&abbreviated=true)
 
 <br>
@@ -32,5 +42,11 @@
 [![Apache Maven](https://img.shields.io/static/v1?label=&message=Apache%20Maven&color=C71A36&logo=apachemaven&logoColor=white&style=flat-square)](https://maven.apache.org/)
 [![Pipenv](https://img.shields.io/static/v1?label=&message=Pipenv&color=3776AB&logo=python&logoColor=white&style=flat-square)](https://pipenv.pypa.io/en/latest/)
 [![NPM](https://img.shields.io/static/v1?label=&message=NPM&color=C71A36&logo=npm&logoColor=white&style=flat-square)](https://www.npmjs.com/)
+[![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2560FF&logo=docker&logoColor=white&style=flat-square)](https://www.npmjs.com/)
 [![Android Studio](https://img.shields.io/static/v1?label=&message=Android%20Studio&color=3DDC84&logo=androidstudio&logoColor=white&style=flat-square)](https://developer.android.com/studio)
+
+### Latest Medium Articles
+
+<!-- MEDIUM-STORIES:START -->
+<!-- MEDIUM-STORIES:END -->
 
