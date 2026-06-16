@@ -22,6 +22,9 @@ jobs:
         with:
           python-version: "3.x"
 
+      - name: Install dependencies
+        run: pip install requests
+
       - name: Fetch Medium RSS
         run: python .github/workflows/update_medium.py
 
