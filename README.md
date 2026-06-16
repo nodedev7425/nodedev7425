@@ -10,6 +10,6 @@
 
 <br>
 
-[![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=django&logoColor=white&style=flat-square)](https://spring.io/projects/spring-boot)
+[![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=django&logoColor=white&style=flat-square)](https://www.djangoproject.com/)
 [![Spring Boot](https://img.shields.io/static/v1?label=&message=Spring%20Boot&color=6DB33F&logo=springboot&logoColor=white&style=flat-square)](https://spring.io/projects/spring-boot)
 
