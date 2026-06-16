@@ -21,16 +21,16 @@
 [![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=663399&logo=css&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Delphi](https://img.shields.io/static/v1?label=&message=Delphi&color=E62431&logo=embarcadero&logoColor=white&style=flat-square)](https://www.embarcadero.com/products/delphi)
 
-**Tools:**
-
-[![Apache Maven](https://img.shields.io/static/v1?label=&message=Apache%20Maven&color=C71A36&logo=apachemaven&logoColor=white&style=flat-square)](https://maven.apache.org/)
-[![Pipenv](https://img.shields.io/static/v1?label=&message=Pipenv&color=3776AB&logo=python&logoColor=white&style=flat-square)](https://pipenv.pypa.io/en/latest/)
-[![NPM](https://img.shields.io/static/v1?label=&message=NPM&color=C71A36&logo=npm&logoColor=white&style=flat-square)](https://www.npmjs.com/)
-
 **Frameworks:**
 
 [![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=django&logoColor=white&style=flat-square)](https://www.djangoproject.com/)
 [![Spring Boot](https://img.shields.io/static/v1?label=&message=Spring%20Boot&color=6DB33F&logo=springboot&logoColor=white&style=flat-square)](https://spring.io/projects/spring-boot)
 [![Express](https://img.shields.io/static/v1?label=&message=Express&color=000000&logo=express&logoColor=white&style=flat-square)](https://expressjs.com/)
+
+**Tools & IDEs:**
+
+[![Apache Maven](https://img.shields.io/static/v1?label=&message=Apache%20Maven&color=C71A36&logo=apachemaven&logoColor=white&style=flat-square)](https://maven.apache.org/)
+[![Pipenv](https://img.shields.io/static/v1?label=&message=Pipenv&color=3776AB&logo=python&logoColor=white&style=flat-square)](https://pipenv.pypa.io/en/latest/)
+[![NPM](https://img.shields.io/static/v1?label=&message=NPM&color=C71A36&logo=npm&logoColor=white&style=flat-square)](https://www.npmjs.com/)
 [![Android Studio](https://img.shields.io/static/v1?label=&message=Android%20Studio&color=3DDC84&logo=androidstudio&logoColor=white&style=flat-square)](https://developer.android.com/studio)
 
