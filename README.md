@@ -13,6 +13,7 @@
 **Languages:**
 
 [![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=7F52FF&logo=kotlin&logoColor=white&style=flat-square)](https://kotlinlang.org/)
+[![Delphi](https://img.shields.io/static/v1?label=&message=Delphi&color=E62431&logo=embarcadero&logoColor=white&style=flat-square)](https://www.embarcadero.com/products/delphi)
 
 **Frameworks:**
 
